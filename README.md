@@ -1,2 +1,2 @@
 # my-nerds.github.io
-html/css 
+html/css, perfect pixel
